@@ -1,1 +1,83 @@
-/* Inserta tu código aquí */
+header{
+    background: #c12323;
+}
+.navbar a{
+    text-decoration: none;
+    color: #eddfa4;
+    }
+
+header .nav > li > a:hover,
+header .nav > li > a:focus {
+  text-decoration: none;
+    background: #eddfa4;
+    color:#c12323;
+} 
+.navbar{
+    margin: 0;
+}
+
+.navbar i{
+    color: #eddfa4;
+    
+}
+/* ------------HERO ---------------------------------*/
+
+.hero{
+    background: url(../img/creamy.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.hero-ctn{
+    background: rgba(0, 0, 0, 0.51);
+    color: #eddfa4;
+}
+.hero .titulo{
+    margin: 20% 0;
+}
+.titulo h1{
+    padding: 2% 0;
+    
+}
+
+/* -------------------------CREAMY--------------------------*/
+
+
+.creamy{
+    background: #eddfa4;
+    color: #c12323;
+    padding: 5% 0;
+}
+
+/* -----------------------ABOUT--------- */
+
+
+.about{
+    background: #c12323;
+    color:#eddfa4;
+    padding: 3% 0;
+}
+
+
+/*----------------------------ABOUT-----------*/
+
+.cualidades{
+    background: #eddfa4;
+    padding: 3% 0;
+}
+.tag{
+    color: #c12323;
+    }
+
+.cualidades i{
+    font-size: 50px;
+  }
+/* ---------------------FOOTER--------------------*/
+
+footer{
+   background: #c12323;
+    color:#eddfa4;
+    padding: 1% 0;
+}
+
+
+
